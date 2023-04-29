@@ -1,0 +1,17 @@
+@font-face { font-family: Some Time Later; src: url(SomeTimeLater-w1j1n.otf)}
+
+
+body {
+    background-color: aquamarine;
+    font-family: Some Time Later;
+    margin-top: 3rem;
+    text-align: left;
+}
+
+img {
+    width: 50%;
+}
+
+ul {
+    list-style-type: none;
+}

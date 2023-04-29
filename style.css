@@ -1,0 +1,33 @@
+@font-face { font-family: Some Time Later; src: url(SomeTimeLater-w1j1n.otf)}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #dd77ae97;
+    font-family: Some Time Later;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+h5 {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+    
+img {
+    margin: 1rem;
+    width: 20em;
+    height: 20em;
+    border-radius: 5px;
+}
